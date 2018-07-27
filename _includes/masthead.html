@@ -3,7 +3,7 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
 
-        <img class="site-title" style="height: 60px;" src="/assets/images/logo.svg">
+        <img class="site-title" style="height: 60px;" href="{{ '/' | relative_url }}" src="/assets/images/logo.svg">
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
