@@ -1,11 +1,10 @@
 ---
+title: Writers Guild
 type: pages
 layout: single
 author_profile: true
 permalink: /outreach/
 ---
-
-# Writers Guild
 
 We've held several writing workshops for the community and hosted regular classes and one on one sessions for students in 5th-8th grade. We aimed to provide students with an open and welcoming space to write, and a place to further develop and expand upon their ideas. The workshop exposed students to more complex levels of creative writing using writing prompts and examples to spur their creativity.
 

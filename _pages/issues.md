@@ -1,11 +1,10 @@
 ---
+title: Magazine Issues
 type: pages
 layout: single
 author_profile: true
 permalink: /issues/
 ---
-
-# Magazine Issues
 
 Just like our print issues, our magazines are available for free digitally!
 
