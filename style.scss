@@ -12,6 +12,22 @@
 /**************/
 /* BASE RULES */
 /**************/
+.right{
+         text-align: right;
+}
+
+html, body{
+    height: 100%;
+    margin: 0;
+}
+
+.mywrap{
+    min-height: 100%;
+}
+
+.mywrapin{
+    padding-bottom: 100px;
+}
 
 html {
   font-size: 100%;
@@ -272,7 +288,7 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 50px;
+  margin-top: -80px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
