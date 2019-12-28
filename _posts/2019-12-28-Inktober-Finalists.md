@@ -1,6 +1,7 @@
+-------
 layout: post
 title: Tête-à-tête with *f*our Inktober *f*inalists
-
+-------
 <h4 style="margin: 0; padding: 0;">  and some *Mezzanine*-esque *f*ootnotes… <i class="em em-bulb"></i> </h4>
 **ADD MOREEEE FOOTNOTES and add in the pictures of the four and their submission pics and an excerpt of robert’s poem**
 
