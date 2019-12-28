@@ -278,7 +278,7 @@ Armed with weekly (often home-baked) sugar indulgences, our staff had an immense
 >
 > Amy W. ‘19
 
-> The overarching vision in my art style is pepe.^[pepe]
+> The overarching vision in my art style is pepe.[^pepe]
 >
 > Philip C. ‘20
 
