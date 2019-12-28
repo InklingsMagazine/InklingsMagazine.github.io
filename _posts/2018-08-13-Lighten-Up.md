@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Lighten Up&#58; Seeing Art with New Eyes
+excerpt_separator: <!--more-->
 ---
 
 <h4 style="margin: 0; padding: 0;"> An analysis of light and dark in art that's truly lit <i class="em em-bulb"></i> </h4>
 
 Light, and the absence of light, is literally everywhere. We wake up accustomed to sun rays filtering through our windows and sleep in response to nightfall. Light provides energy for our biosphere, powers our oxygen sources, and allows us to see the shapes and colors of matter around us. The study of light is the in the interest of biologists, physicists, architects, solar scientists, writers, astronomers…the list is endless. Obviously, human perception of light is broad, and its effects on us are even greater. Human civilization is completely dependent on light for sustenance. So it’s not a surprise that artists of all kinds use light and its counterpart, darkness, to inspire, move, and convey new ideas.
+<!--more-->
 
 > "Art history is littered with works that involve light."
 > \- James Turrell
