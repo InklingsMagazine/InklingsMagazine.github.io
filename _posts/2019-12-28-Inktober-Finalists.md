@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Tête-à-tête with four Inktober finalists
+excerpt_separator: <!--more-->
 ---
 
 <h4 style="margin: 0; padding: 0;">  and some <i>Mezzanine</i>-esque footnotes…</h4>
 
 Armed with weekly (often home-baked) sugar indulgences, our staff had an immense amount of fun perusing Inktober submissions last month! We think everyone who submitted is a **superbly awesome** person, and we wanted to learn more about their artistic and literary sides. Here are a few snippets into the creative lives and minds of four Inktober finalists who scored in the top 20% of all submissions through our blind review process. Let's meet them!
-
+<!--more-->
 **Amy Wang '19** – Art
 
 ![](https://inklingsmagazine.s3.us-east-2.amazonaws.com/amywang.jpg){: .center-image }
