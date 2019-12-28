@@ -1,9 +1,8 @@
--------
+---
 layout: post
 title: Tête-à-tête with *f*our Inktober *f*inalists
--------
+---
 <h4 style="margin: 0; padding: 0;">  and some *Mezzanine*-esque *f*ootnotes… <i class="em em-bulb"></i> </h4>
-**ADD MOREEEE FOOTNOTES and add in the pictures of the four and their submission pics and an excerpt of robert’s poem**
 
 Armed with weekly (often home-baked) sugar indulgences, our staff had an immense amount of fun perusing Inktober submissions last month! We think everyone who submitted is a **superbly awesome** person, and we wanted to learn more about their artistic and literary sides. Here are a few snippets into the creative lives and minds of four Inktober finalists who scored in the top 20% of all submissions through our blind review process. Let's meet them!
 
