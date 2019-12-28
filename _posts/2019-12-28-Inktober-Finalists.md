@@ -18,7 +18,7 @@ Armed with weekly (often home-baked) sugar indulgences, our staff had an immense
 
 **Robert Haro '21** – Writing
 
-![](https://inklingsmagazine.s3.us-east-2.amazonaws.com/amywang.jpg){: .center-image }
+![](https://inklingsmagazine.s3.us-east-2.amazonaws.com/robertharo.jpg){: .center-image }
 
 **Tina Khadem '22** – Art
 
