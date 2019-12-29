@@ -12,16 +12,69 @@ Armed with weekly (often home-baked) sugar indulgences, our staff had an immense
 **Amy Wang '19** – Art[^AMY]
 
 ![](https://inklingsmagazine.s3.us-east-2.amazonaws.com/amywang.jpg){: .center-image }
-
-[^AMY]: Her art is incredible! Here are a few wonderful samples: <div id="comslider_in_point_1989573"></div><script type="text/javascript">var oCOMScript1989573=document.createElement('script');oCOMScript1989573.src="https://commondatastorage.googleapis.com/comslider/target/users/1577652216x561d3f157f69393f93bfa082ddc724c8/comslider.js?timestamp=1577652575&ct="+Date.now();oCOMScript1989573.type='text/javascript';document.getElementsByTagName("head").item(0).appendChild(oCOMScript1989573);</script>
+<div id="comslider_in_point_1989573"></div><script type="text/javascript">var oCOMScript1989573=document.createElement('script');oCOMScript1989573.src="https://commondatastorage.googleapis.com/comslider/target/users/1577652216x561d3f157f69393f93bfa082ddc724c8/comslider.js?timestamp=1577652575&ct="+Date.now();oCOMScript1989573.type='text/javascript';document.getElementsByTagName("head").item(0).appendChild(oCOMScript1989573);</script>
 
 **Philip Chen '20** – Art
 
 ![](https://inklingsmagazine.s3.us-east-2.amazonaws.com/philipchen.png){: .center-image }
+![pepe](https://inklingsmagazine.s3.us-east-2.amazonaws.com/jah.jpg)
 
 **Robert Haro '21** – Writing[^ROBERT]
 
 ![](https://inklingsmagazine.s3.us-east-2.amazonaws.com/robertharo.jpg){: .center-image }
+> **Reflections**
+> Thirsty clouds swallow sunbeams,
+> And the window glistens with condensation;
+> If only my hands could drift away onto piano keys,
+> To play the way out of sweet condemnation;
+> 
+> Stars drift by and make streaks of light;
+> The morning induces faint perplexion;
+> I can almost trickle into the foggy mirror,
+> Which stares back with my reflection.
+> 
+> If I gaze closely enough I can make out another person,
+> Who cheers me up before I worsen.
+> Once again the weight sublimely climbs up my spine,
+> And the racing thoughts tightly intertwine
+> 
+> Into strings which puppet me into the future
+> And into the lines which keep my wounds sutured;
+> They’ll paint me every color just for fun;
+> Every color except my favorite one.
+> 
+> I’ll give it all away to anyone,
+> But please return to sender;
+> The steepest price for peace of mind,
+> I’ll always be a higher spender.
+> 
+> A war is waging inside us all,
+> With bayonets of good and evil;
+> The side that wins is the one we feed,
+> The other dormant for retrieval;
+> 
+> We’ve lived and died inside our minds,
+> A thousand times to become kind;
+> Before we felt alive and sighed,
+> The purple bled into the orange sky.
+> 
+> I’ll hold your hand, don’t feel alone;
+> I love you so I’ll let it go.
+> 
+> Because deep inside I’ll always know,
+> If you care you’ll come back slow;
+> And stir the galaxies in my eyes,
+> While I’m stunned and still surprised.
+> 
+> I wish I could see your face again
+> But no matter how many times the water dries away,
+> No matter where it splashes or where it sprays
+> My dearest friend,
+> 
+> I’ll hold your hand, don’t feel alone;
+> I love you so I’ll let it go.
+> 
+> I loved you so I let you go.
 
 **Tina Khadem '22** – Art[^TINA]
 
@@ -287,7 +340,7 @@ Armed with weekly (often home-baked) sugar indulgences, our staff had an immense
 >
 > Philip C. ‘20
 
-[^pepe]: Pepe the frog really is Philip's dominant style. This green anthromorphic frog with a humanoid body became an Internet meme after Matt Furie included the figure in his Boy's Club comic.![pepe](https://inklingsmagazine.s3.us-east-2.amazonaws.com/jah.jpg)
+[^pepe]: Pepe the frog really is Philip's dominant style. This green anthromorphic frog with a humanoid body became an Internet meme after Matt Furie included the figure in his Boy's Club comic.
 
 **Any advice for others, funny anecdotes, or other random facts you’d like to share?**
 
