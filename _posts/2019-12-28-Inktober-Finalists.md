@@ -8,19 +8,22 @@ excerpt_separator: <!--more-->
 
 Armed with weekly (often home-baked) sugar indulgences, our staff had an immense amount of fun perusing Inktober submissions last month! We think everyone who submitted is a **superbly awesome** person, and we wanted to learn more about their artistic and literary sides. Here are a few snippets into the creative lives and minds of four Inktober finalists who scored in the top 20% of all submissions through our blind review process. Let's meet them!
 <!--more-->
-**Amy Wang '19** – Art
+
+**Amy Wang '19** – Art[^AMY]
 
 ![](https://inklingsmagazine.s3.us-east-2.amazonaws.com/amywang.jpg){: .center-image }
+
+[^AMY]: Her art is incredible! Here are a few wonderful samples: <div id="comslider_in_point_1989573"></div><script type="text/javascript">var oCOMScript1989573=document.createElement('script');oCOMScript1989573.src="https://commondatastorage.googleapis.com/comslider/target/users/1577652216x561d3f157f69393f93bfa082ddc724c8/comslider.js?timestamp=1577652575&ct="+Date.now();oCOMScript1989573.type='text/javascript';document.getElementsByTagName("head").item(0).appendChild(oCOMScript1989573);</script>
 
 **Philip Chen '20** – Art
 
 ![](https://inklingsmagazine.s3.us-east-2.amazonaws.com/philipchen.png){: .center-image }
 
-**Robert Haro '21** – Writing
+**Robert Haro '21** – Writing[^ROBERT]
 
 ![](https://inklingsmagazine.s3.us-east-2.amazonaws.com/robertharo.jpg){: .center-image }
 
-**Tina Khadem '22** – Art
+**Tina Khadem '22** – Art[^TINA]
 
 ![](https://inklingsmagazine.s3.us-east-2.amazonaws.com/tinakhadem.jpeg){: .center-image }
 
@@ -30,7 +33,7 @@ Armed with weekly (often home-baked) sugar indulgences, our staff had an immense
 >
 > Robert H. '21
 
-> The Mom Friend<sup>TM</sup>^ [^XD]
+> The Mom Friend<sup>TM</sup>[^XD]
 >
 > [^XD]:XD.
 >
