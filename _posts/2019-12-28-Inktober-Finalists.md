@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 Armed with weekly (often home-baked) sugar indulgences, our staff had an immense amount of fun perusing Inktober submissions last month! We think everyone who submitted is a **superbly awesome** person, and we wanted to learn more about their artistic and literary sides. Here are a few snippets into the creative lives and minds of four Inktober finalists who scored in the top 20% of all submissions through our blind review process. Let's meet them!
 <!--more-->
 
-**Amy Wang '19** – Art[^AMY]
+**Amy Wang '19** – Art
 
 ![](https://inklingsmagazine.s3.us-east-2.amazonaws.com/amywang.jpg){: .center-image }
 <div id="comslider_in_point_1989573"></div><script type="text/javascript">var oCOMScript1989573=document.createElement('script');oCOMScript1989573.src="https://commondatastorage.googleapis.com/comslider/target/users/1577652216x561d3f157f69393f93bfa082ddc724c8/comslider.js?timestamp=1577652575&ct="+Date.now();oCOMScript1989573.type='text/javascript';document.getElementsByTagName("head").item(0).appendChild(oCOMScript1989573);</script>
@@ -19,66 +19,67 @@ Armed with weekly (often home-baked) sugar indulgences, our staff had an immense
 ![](https://inklingsmagazine.s3.us-east-2.amazonaws.com/philipchen.png){: .center-image }
 ![pepe](https://inklingsmagazine.s3.us-east-2.amazonaws.com/jah.jpg)
 
-**Robert Haro '21** – Writing[^ROBERT]
+**Robert Haro '21** – Writing
 
 ![](https://inklingsmagazine.s3.us-east-2.amazonaws.com/robertharo.jpg){: .center-image }
-> **Reflections**
-> Thirsty clouds swallow sunbeams,
-> And the window glistens with condensation;
-> If only my hands could drift away onto piano keys,
-> To play the way out of sweet condemnation;
+> **Reflections** <br>
+> Thirsty clouds swallow sunbeams, <br>
+> And the window glistens with condensation; <br>
+> If only my hands could drift away onto piano keys, <br>
+> To play the way out of sweet condemnation; <br>
 > 
-> Stars drift by and make streaks of light;
-> The morning induces faint perplexion;
-> I can almost trickle into the foggy mirror,
-> Which stares back with my reflection.
+> Stars drift by and make streaks of light; <br>
+> The morning induces faint perplexion; <br>
+> I can almost trickle into the foggy mirror, <br>
+> Which stares back with my reflection. <br>
 > 
-> If I gaze closely enough I can make out another person,
-> Who cheers me up before I worsen.
-> Once again the weight sublimely climbs up my spine,
-> And the racing thoughts tightly intertwine
+> If I gaze closely enough I can make out another person, <br>
+> Who cheers me up before I worsen. <br>
+> Once again the weight sublimely climbs up my spine, <br>
+> And the racing thoughts tightly intertwine <br>
 > 
-> Into strings which puppet me into the future
-> And into the lines which keep my wounds sutured;
-> They’ll paint me every color just for fun;
-> Every color except my favorite one.
+> Into strings which puppet me into the future <br>
+> And into the lines which keep my wounds sutured; <br>
+> They’ll paint me every color just for fun; <br>
+> Every color except my favorite one. <br>
 > 
-> I’ll give it all away to anyone,
-> But please return to sender;
-> The steepest price for peace of mind,
-> I’ll always be a higher spender.
+> I’ll give it all away to anyone, <br>
+> But please return to sender; <br>
+> The steepest price for peace of mind, <br>
+> I’ll always be a higher spender. <br>
 > 
-> A war is waging inside us all,
-> With bayonets of good and evil;
-> The side that wins is the one we feed,
-> The other dormant for retrieval;
+> A war is waging inside us all, <br>
+> With bayonets of good and evil; <br>
+> The side that wins is the one we feed, <br>
+> The other dormant for retrieval; <br>
 > 
-> We’ve lived and died inside our minds,
-> A thousand times to become kind;
-> Before we felt alive and sighed,
-> The purple bled into the orange sky.
+> We’ve lived and died inside our minds, <br>
+> A thousand times to become kind; <br>
+> Before we felt alive and sighed, <br>
+> The purple bled into the orange sky. <br>
 > 
-> I’ll hold your hand, don’t feel alone;
-> I love you so I’ll let it go.
+> I’ll hold your hand, don’t feel alone; <br>
+> I love you so I’ll let it go. <br>
 > 
-> Because deep inside I’ll always know,
-> If you care you’ll come back slow;
-> And stir the galaxies in my eyes,
-> While I’m stunned and still surprised.
+> Because deep inside I’ll always know, <br>
+> If you care you’ll come back slow; <br>
+> And stir the galaxies in my eyes, <br>
+> While I’m stunned and still surprised. <br>
 > 
-> I wish I could see your face again
-> But no matter how many times the water dries away,
-> No matter where it splashes or where it sprays
-> My dearest friend,
+> I wish I could see your face again <br>
+> But no matter how many times the water dries away, <br>
+> No matter where it splashes or where it sprays <br>
+> My dearest friend, <br>
 > 
-> I’ll hold your hand, don’t feel alone;
-> I love you so I’ll let it go.
+> I’ll hold your hand, don’t feel alone; <br>
+> I love you so I’ll let it go. <br>
 > 
 > I loved you so I let you go.
 
-**Tina Khadem '22** – Art[^TINA]
+**Tina Khadem '22** – Art
 
 ![](https://inklingsmagazine.s3.us-east-2.amazonaws.com/tinakhadem.jpeg){: .center-image }
+<div id="comslider_in_point_1989581"></div><script type="text/javascript">var oCOMScript1989581=document.createElement('script');oCOMScript1989581.src="https://commondatastorage.googleapis.com/comslider/target/users/1577653095xfd46706f7a66096da57342569d5d5aff/comslider.js?timestamp=1577653427&ct="+Date.now();oCOMScript1989581.type='text/javascript';document.getElementsByTagName("head").item(0).appendChild(oCOMScript1989581);</script>
 
 **Three words to describe yourself:** 
 
